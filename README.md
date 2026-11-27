@@ -1,7 +1,7 @@
 # my-first-project
 datorium lessons
 
-
+iuhfi9uehgoiwudhng
 
 🎓 **Computer Science / IT Student** at [Universitātes nosaukums, piem., RTU / LU / ViA]  
 💻 Aspiring **[Tava vēlamā joma, piem., Software Engineer / Full-Stack Developer / Data Analyst]**  
